@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Priya Senthilkumar and this is my GitHub where you can see all the cool stuff that I am working on.
+- 🔭 I’m currently working on a stock screener using Python and other data analysis tools
+- 🌱 I’m currently learning more about financial data analysis
+- 👯 I’m looking to collaborate on projects related to financial analysis, machine learning, web development, and more
+- 🤔 I’m looking for help with expanding my current tech stack and creating cool new ideas together!
+- 💬 Ask me about anything related to web development and data analysis, and anything else non technical related :)
+- 📫 How to reach me: https://www.linkedin.com/in/priyakumar0817/
+- ⚡ Fun fact: I'm left handed! and I love to be a goofball and have fun with whatever im currently working on
 <!--
 **priyakumar0817/priyakumar0817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
