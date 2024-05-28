@@ -8,7 +8,7 @@ I took a break from projects to focus on grinding Leetcode, but now I am eager t
 - 🤔 I’m looking for help with expanding my current tech stack and creating cool new ideas together!
 - 💬 Ask me about anything related to web development and data analysis, and anything else non technical related :)
 - 📫 How to reach me: https://www.linkedin.com/in/priyakumar0817/ or priya.kumar817@gmail.com
-- ⚡ Fun fact: I'm left handed! and I love to be a goofball and have fun with whatever im currently working on
+- ⚡ Fun fact: I'm left handed! 
 <!--
 **priyakumar0817/priyakumar0817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
