@@ -2,7 +2,7 @@
 
 I'm Priya Senthilkumar and this is my GitHub where you can see all the cool stuff that I am working on.  
 I took a break from projects to focus on grinding Leetcode, but now I am eager to create new projects and showcase my skills more!
-- 🔭 I’m currently working on a stock screener using Python and other data analysis tools
+- 🔭 I’m currently working on a stock screener using Python and other data analysis tools and gettiing my portfolio together!
 - 🌱 I’m currently learning more about financial data analysis
 - 👯 I’m looking to collaborate on projects related to financial analysis, machine learning, web development, and more
 - 🤔 I’m looking for help with expanding my current tech stack and creating cool new ideas together!
