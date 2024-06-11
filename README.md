@@ -2,11 +2,9 @@
 
 I'm Priya Senthilkumar and this is my GitHub where you can see all the cool stuff that I am working on.  
 I took a break from projects to focus on grinding Leetcode, but now I am eager to create new projects and showcase my skills more!
-- 🔭 I’m currently working on a stock screener using Python and other data analysis tools and gettiing my portfolio together!
-- 🌱 I’m currently learning more about financial data analysis
-- 👯 I’m looking to collaborate on projects related to financial analysis, machine learning, web development, and more
-- 🤔 I’m looking for help with expanding my current tech stack and creating cool new ideas together!
-- 💬 Ask me about anything related to web development and data analysis, and anything else non technical related :)
+- 🔭 I’m currently working on some games for my nephew
+- 🌱 I’m currently learning more about frontend dev
+- 🤔 I’m looking for help with creating cool new ideas together!
 - 📫 How to reach me: https://www.linkedin.com/in/priyakumar0817/ or priya.kumar817@gmail.com
 - ⚡ Fun fact: I'm left handed! 
 <!--
