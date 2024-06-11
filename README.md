@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I'm Priya Senthilkumar and this is my GitHub where you can see all the cool stuff that I am working on.  
-I took a break from projects to focus on grinding Leetcode, but now I am eager to create new projects and showcase my skills more!
+I'm Priya Senthilkumar and this is my GitHub <3  
 - 🔭 I’m currently working on some games for my nephew
 - 🌱 I’m currently learning more about frontend dev
 - 🤔 I’m looking for help with creating cool new ideas together!
