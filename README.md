@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Priya Senthilkumar and this is my GitHub <3  
-- 🔭 I’m currently working on grinding leetcode!
+- 🔭 I’m currently grinding leetcode and preparing for interviews!
 - 🌱 I’m currently learning more about database management
 - 🤔 I’m looking for help with creating cool new ideas together!
 - 📫 How to reach me: https://www.linkedin.com/in/priyakumar0817/ or priya.kumar817@gmail.com
