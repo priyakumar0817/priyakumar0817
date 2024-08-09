@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-You will get a job soon. The perfect job awaits you. Thanks for reading <3
+You will get a job soon. The perfect job awaits you. Thanks for reading <3 Keep going!
 I'm Priya Senthilkumar and this is my GitHub  !
 - 🔭 I’m currently taking a leetcode class and working on a stock screener project! 
 - 🌱 I’m currently learning more about prefix sum range query problems.
