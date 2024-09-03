@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-You will get a job soon. The perfect job awaits you. Thanks for reading <3 Keep going!
 I'm Priya Senthilkumar and this is my GitHub  !
 - 🔭 I’m currently taking a leetcode class and working on a stock screener project! 
-- 🌱 I’m currently learning more about prefix sum range query problems.
+- 🌱 I’m currently learning more about different dynamic programming concepts.
 - 🤔 I’m looking for help with creating cool new ideas together!
 - 📫 How to reach me: https://www.linkedin.com/in/priyakumar0817/ or priya.kumar817@gmail.com
 - ⚡ Fun fact: I'm left handed! 
