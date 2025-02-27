@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Priya Senthilkumar and this is my GitHub  !
-- 🔭 I’m currently finishing up this year with interview prep!
+- 🔭 I’m currently starting this new year with interview prep!
 - 🌱 I’m currently learning more about different machine learning concepts. 
 - 🤔 I’m looking for help with creating cool new ideas together!
 - 📫 How to reach me: https://www.linkedin.com/in/priyakumar0817/ or priya.kumar817@gmail.com
